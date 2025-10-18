@@ -2,9 +2,9 @@
 
 
 
-\# Phan Anh Tú
+# Phan Anh Tú
 
-!\[ảnh đại diện](anhdaidien.jpg)
+![ảnh đại diện](anhdaidien.jpg)
 
 
 
@@ -12,13 +12,13 @@ Xin chào! Mình là sinh viên ngành Sư phạm tin. Mình yêu thích lập t
 
 
 
-\## Sở thích
+## Sở thích
 
 * xem phim
 * Nghe nhạc
 * chơi game
 
-\## Thông tin liên hệ
+## Thông tin liên hệ
 
 * Email    : tu9atd123@gmail.com
 * Facebook : https://www.facebook.com/?locale=vi\_VN
